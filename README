@@ -1,0 +1,9 @@
+Datasets
+
+The multilingual version datasets for DailyDialog and DSTC7-AVSD can be downloaded at https://github.com/misonsky/MultilingualDatasets.
+
+Dictionary
+
+Path "dictionary/*" contains the dictionaries used
+
+
